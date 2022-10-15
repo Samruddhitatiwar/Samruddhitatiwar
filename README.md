@@ -2,7 +2,7 @@
 
 <!--**Samruddhitatiwar/Samruddhitatiwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Here are some ideas to know me better:
 
 - 🔭 I’m currently working on Frontend Web development.
 - 🌱 I’m currently learning Backend technologies like NodeJS and Android Develpment
